@@ -1,0 +1,10 @@
+Package: cleanUKBBFBC
+Type: Package
+Title: Clean UK Biobank FBC
+Version: 1.0
+Date: 2018-01-06
+Author: William Astle
+Maintainer: William Astle <wja24@cam.ac.uk>
+Description: Remove technical variation from UK Biobank FBC data and draw relevent plots
+License: What license is it under?
+Depends: R (>= 3.0.0), data.table, foreach, doMC, Hmisc, MASS, ggplot2, dplyr, ellipse, lubridate, grid, mgcv, RColorBrewer,openxlsx
